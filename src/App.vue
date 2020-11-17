@@ -3,7 +3,7 @@
     <work-flow
       :node.sync="node" 
       :design="form" 
-      :conditionsList.sync="conditionsList"/>
+      :conditionsList.sync="conditionsList" />
   </div>
 </template>
 
